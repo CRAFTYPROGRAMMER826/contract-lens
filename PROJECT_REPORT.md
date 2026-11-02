@@ -242,3 +242,4 @@ ContractLens demonstrates that legal document analysis requires domain-aware str
 3. Hendrycks, D., et al. (2021). *CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review*. NeurIPS.
 4. ChromaDB Technical Documentation (2024). *Chroma: The AI-native open-source embedding database*.
 5. Ollama Documentation (2024). *Run Llama 3, Qwen, and custom models locally*.
+
